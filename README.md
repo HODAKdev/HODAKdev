@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](/imgs/directx11.png)
+![](/imgs/d3d11.png)
 
 <!--
 **HODAKdev/HODAKdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
