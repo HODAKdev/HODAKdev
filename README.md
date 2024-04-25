@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](/imgs/c_64.png)
+![](/imgs/c.png)
 ![](/imgs/cpp.png)
 ![](/imgs/css.png)
 ![](/imgs/directx_11.png)
