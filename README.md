@@ -1,14 +1,18 @@
 ### Hi there 👋
 ![](/imgs/c_64.png)
-![](/imgs/cpp_64.png)
-![](/imgs/directx_11_64.png)
-![](/imgs/entt_64.png)
-![](/imgs/javascript_64.png)
-![](/imgs/logitech_64.png)
-![](/imgs/lua_64.png)
-![](/imgs/nvidia_physx_64.png)
-![](/imgs/opengl_64.png)
-![](/imgs/react_64.png)
+![](/imgs/cpp.png)
+![](/imgs/css.png)
+![](/imgs/directx_11.png)
+![](/imgs/entt.png)
+![](/imgs/express.png)
+![](/imgs/html.png)
+![](/imgs/js.png)
+![](/imgs/logitech.png)
+![](/imgs/lua.png)
+![](/imgs/opengl.png)
+![](/imgs/physx.png)
+![](/imgs/react.png)
+![](/imgs/windows_api.png)
 
 
 <!--
