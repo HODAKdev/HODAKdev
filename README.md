@@ -17,3 +17,5 @@ I am a Desktop Software & Front-End Developer.
 ![https://developer.nvidia.com/physx-sdk](/imgs/physx.png)
 ![https://react.dev/](/imgs/react.png)
 ![https://learn.microsoft.com/en-us/windows/win32/](/imgs/windows_api.png)
+### Contact:
+hodakdeveloper@gmail.com
