@@ -1,5 +1,15 @@
 ### Hi there 👋
-![](/imgs/directx_11_x64.png)
+![](/imgs/c_64.png)
+![](/imgs/cpp_64.png)
+![](/imgs/directx_11_64.png)
+![](/imgs/entt_64.png)
+![](/imgs/javascript_64.png)
+![](/imgs/logitech_64.png)
+![](/imgs/lua_64.png)
+![](/imgs/nvidia_physx_64.png)
+![](/imgs/opengl_64.png)
+![](/imgs/react_64.png)
+
 
 <!--
 **HODAKdev/HODAKdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
