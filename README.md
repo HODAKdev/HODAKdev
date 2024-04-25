@@ -1,4 +1,5 @@
 ### Hey you! Yes you! Hi there! 👋
+[![Jazyk C](/imgs/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 I am a Desktop Software & Front-End Developer.
 ### Here are some technologies I use:
 ![https://en.wikipedia.org/wiki/C_(programming_language)](/imgs/c.png)
