@@ -2,9 +2,11 @@
 I am a Desktop Software & Front-End Developer.
 ### Here are some technologies I use:
 ![https://en.wikipedia.org/wiki/C_(programming_language)](/imgs/c.png)
+![https://github.com/chromiumembedded/cef](/imgs/cef.png)
 ![https://sk.wikipedia.org/wiki/C%2B%2B](/imgs/cpp.png)
 ![https://en.wikipedia.org/wiki/CSS](/imgs/css.png)
 ![https://learn.microsoft.com/en-us/windows/win32/direct3d11/how-to-use-direct3d-11](/imgs/directx_11.png)
+![https://www.electronjs.org/](/imgs/electron.png)
 ![https://github.com/skypjack/entt](/imgs/entt.png)
 ![https://expressjs.com/](/imgs/express.png)
 ![https://en.wikipedia.org/wiki/HTML](/imgs/html.png)
