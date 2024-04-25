@@ -1,5 +1,5 @@
 ### Hey you! Yes you! Hi there! 👋
-I am a Desktop Software & Front-End Developer.
+I am a Desktop Software, Front-End Developer & Designer.
 ### Here are some technologies I use:
 [![](/imgs/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![](/imgs/cef.png)](https://github.com/chromiumembedded/cef)
