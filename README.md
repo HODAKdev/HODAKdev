@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey you! Yes you! Hi there! 👋
+I am a Desktop Software & Front-End Developer.
+### Here are some technologies I use:
 ![https://en.wikipedia.org/wiki/C_(programming_language)](/imgs/c.png)
 ![https://sk.wikipedia.org/wiki/C%2B%2B](/imgs/cpp.png)
 ![https://en.wikipedia.org/wiki/CSS](/imgs/css.png)
@@ -13,19 +15,3 @@
 ![https://developer.nvidia.com/physx-sdk](/imgs/physx.png)
 ![https://react.dev/](/imgs/react.png)
 ![https://learn.microsoft.com/en-us/windows/win32/](/imgs/windows_api.png)
-
-
-<!--
-**HODAKdev/HODAKdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
