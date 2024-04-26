@@ -16,6 +16,8 @@ I am a Desktop Software, Front-End Developer & Designer.
 [![](/imgs/opengl.png)](https://www.opengl.org/)
 [![](/imgs/physx.png)](https://developer.nvidia.com/physx-sdk)
 [![](/imgs/react.png)](https://react.dev/)
+[![](/imgs/vs.png)](https://visualstudio.microsoft.com/)
+[![](/imgs/vsc.png)](https://code.visualstudio.com/)
 [![](/imgs/windows_api.png)](https://learn.microsoft.com/en-us/windows/win32/)
 ### Contact:
 hodakdeveloper@gmail.com
