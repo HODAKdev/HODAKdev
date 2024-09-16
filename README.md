@@ -20,5 +20,6 @@ I am a Desktop Software, Front-End Developer & Designer.
 [![](/imgs/vs.png)](https://visualstudio.microsoft.com/)
 [![](/imgs/vsc.png)](https://code.visualstudio.com/)
 [![](/imgs/windows_api.png)](https://learn.microsoft.com/en-us/windows/win32/)
+[![](/imgs/wordpress.png)](https://wordpress.com/)
 ### Contact:
 hodakdeveloper@gmail.com
