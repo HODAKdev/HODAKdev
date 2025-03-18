@@ -22,5 +22,20 @@ I am a Desktop Software, Front-End Developer & Designer.
 [![](/imgs/vsc.png)](https://code.visualstudio.com/)
 [![](/imgs/windows_api.png)](https://learn.microsoft.com/en-us/windows/win32/)
 [![](/imgs/wordpress.png)](https://wordpress.com/)
-### Contact:
+
+## Projects by language:
+
+### C/C++
+[StarEngine](https://github.com/HODAKdev/StarEngine) \
+[StarFileFormat](https://github.com/HODAKdev/StarFileFormat) \
+[ImGuiWidgets](https://github.com/HODAKdev/ImGuiWidgets) \
+[STRDX](https://github.com/HODAKdev/STRDX)
+
+### Python
+[CryptoAuto](https://github.com/HODAKdev/CryptoAuto)
+
+### JavaScript/TypeScript
+[Stargram](https://github.com/HODAKdev/Stargram)
+
+## Contact:
 hodakdeveloper@gmail.com
