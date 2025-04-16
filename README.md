@@ -13,6 +13,7 @@ I am a Desktop Software, Front-End Developer & Designer.
 [![](/imgs/html.png)](https://en.wikipedia.org/wiki/HTML)
 [![](/imgs/ida.png)](https://hex-rays.com/)
 [![](/imgs/js.png)](https://en.wikipedia.org/wiki/JavaScript)
+[![](/imgs/linux.png)](https://www.kernel.org/)
 [![](/imgs/logitech.png)](https://www.logitechg.com/en-eu/innovation/developer-lab.html)
 [![](/imgs/lua.png)](https://www.lua.org/)
 [![](/imgs/opengl.png)](https://www.opengl.org/)
