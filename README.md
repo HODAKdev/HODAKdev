@@ -32,7 +32,8 @@ I am a Desktop Software, Front-End Developer & Designer.
 [StarEngine](https://github.com/HODAKdev/StarEngine) \
 [StarFileFormat](https://github.com/HODAKdev/StarFileFormat) \
 [ImGuiWidgets](https://github.com/HODAKdev/ImGuiWidgets) \
-[STRDX](https://github.com/HODAKdev/STRDX)
+[STRDX](https://github.com/HODAKdev/STRDX) \
+[smartFRAM](https://github.com/HODAKdev/smartFRAM/tree/main/src)
 
 ### Python
 [CryptoAuto](https://github.com/HODAKdev/CryptoAuto)
