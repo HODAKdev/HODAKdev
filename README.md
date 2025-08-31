@@ -1,6 +1,7 @@
 ### Hey you! Yes you! Hi there! 👋
 I am a Desktop Software, Front-End Developer & Designer.
 ### Here are some technologies I use:
+[![](/imgs/arduino.png)](https://www.arduino.cc/)
 [![](/imgs/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![](/imgs/cef.png)](https://github.com/chromiumembedded/cef)
 [![](/imgs/cpp.png)](https://sk.wikipedia.org/wiki/C%2B%2B)
@@ -10,6 +11,7 @@ I am a Desktop Software, Front-End Developer & Designer.
 [![](/imgs/elementor.png)](https://elementor.com/)
 [![](/imgs/entt.png)](https://github.com/skypjack/entt)
 [![](/imgs/express.png)](https://expressjs.com/)
+[![](/imgs/expressif.png)](https://www.espressif.com/)
 [![](/imgs/html.png)](https://en.wikipedia.org/wiki/HTML)
 [![](/imgs/ida.png)](https://hex-rays.com/)
 [![](/imgs/js.png)](https://en.wikipedia.org/wiki/JavaScript)
