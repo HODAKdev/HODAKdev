@@ -33,7 +33,7 @@ I am a Desktop Software, Front-End Developer & Designer.
 [StarFileFormat](https://github.com/HODAKdev/StarFileFormat) \
 [ImGuiWidgets](https://github.com/HODAKdev/ImGuiWidgets) \
 [STRDX](https://github.com/HODAKdev/STRDX) \
-[smartFRAM](https://github.com/HODAKdev/smartFRAM)
+[smartFRAM](https://github.com/HODAKdev/smartFRAM) \
 [smartFRAM](https://github.com/HODAKdev/whumi)
 
 ### Python
