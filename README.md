@@ -34,7 +34,7 @@ I am a Desktop Software, Front-End Developer & Designer.
 [ImGuiWidgets](https://github.com/HODAKdev/ImGuiWidgets) \
 [STRDX](https://github.com/HODAKdev/STRDX) \
 [smartFRAM](https://github.com/HODAKdev/smartFRAM) \
-[smartFRAM](https://github.com/HODAKdev/whumi)
+[whumi](https://github.com/HODAKdev/whumi)
 
 ### Python
 [CryptoAuto](https://github.com/HODAKdev/CryptoAuto)
