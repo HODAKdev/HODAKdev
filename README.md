@@ -1,5 +1,5 @@
 ### Hey you! Yes you! Hi there! 👋
-I’m a Desktop Software Developer, Front-End Developer, and Designer.
+I’m a Desktop Software Developer, Front-End Developer, and Designer. \
 Making things work. Even if HR doesn’t understand how.
 ### Here are some technologies I use:
 [![](/imgs/arduino.png)](https://www.arduino.cc/)
