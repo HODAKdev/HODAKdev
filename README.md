@@ -1,5 +1,5 @@
 ### Hey you! Yes you! Hi there! 👋
-I am a Desktop Software, Front-End Developer & Designer.
+I’m a Desktop Software Developer, Front-End Developer, and Designer.
 ### Here are some technologies I use:
 [![](/imgs/arduino.png)](https://www.arduino.cc/)
 [![](/imgs/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
